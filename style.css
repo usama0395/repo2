@@ -303,7 +303,7 @@
 .btn-block{
   background-color: orange!important;
   color: #fff!important;
-  /* visibility: hidden; */
+  visibility: hidden;
 }
 .card:hover .btn-block{
     visibility: visible;
